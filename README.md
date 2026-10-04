@@ -1,16 +1,25 @@
-## Hi there 👋
+# Klaus Medina
 
-<!--
-**claudiomedina01-debug/claudiomedina01-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Informática en INACAP Valparaíso, Chile.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Actualmente aprendiendo Programación Orientada a Objetos con Python.
+- Interesado en bases de datos, modelamiento de software y desarrollo seguro.
+
+## Tecnologías
+
+- Lenguajes: Python, SQL, HTML, CSS
+- Herramientas: Git, GitHub, VS Code, MySQL Workbench
+- Modelamiento: UML
+
+## Proyectos destacados
+
+| Proyecto | Descripción |
+|----------|-------------|
+| [poo-viajes-aventura](https://github.com/claudiomedina01-debug/poo-viajes-aventura) | Sistema de destinos, paquetes y reservas aplicando POO en Python. |
+| [analizador-csv](https://github.com/claudiomedina01-debug/analizador-csv) | Herramienta en Python para leer y analizar archivos CSV. |
+
+## Contacto
+
+- GitHub: [claudiomedina01-debug](https://github.com/claudiomedina01-debug)
