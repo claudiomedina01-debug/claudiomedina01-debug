@@ -1,4 +1,4 @@
-# Klaus Medina
+# Claudio Medina M.
 
 Estudiante de Ingeniería en Informática en INACAP Valparaíso, Chile.
 
